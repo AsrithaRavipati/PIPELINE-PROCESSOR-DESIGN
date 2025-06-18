@@ -19,3 +19,11 @@ TOOLS USED: hardware components like Registers and Combinational logic circuits,
 APPLICATIONS: Increases the throughput of the processor, meaning more instructions can be completed in a given time, leading to improved performance.
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/de4d2852-ba0b-4036-9ea7-ea672debec0c)
+
+![Image](https://github.com/user-attachments/assets/1eb57335-f8c8-4a61-a3de-dc6cf3ca55ef)
+
+![Image](https://github.com/user-attachments/assets/26910f54-60ed-4520-ba99-634451ca1515)
+
+![Image](https://github.com/user-attachments/assets/4da6b323-23c1-465b-8019-ff8547f0e989)
